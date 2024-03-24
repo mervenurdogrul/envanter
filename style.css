@@ -1,0 +1,40 @@
+* { padding: 0; margin: 0; border: 0; }
+
+.kutu{
+    width: 40%;
+    height: 150px;
+    background: lightskyblue;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 20px;
+    }
+
+.kutu h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.kutu p {
+    font-size: 14px;
+    margin: 0;
+}
+
+.kutu .miktar {
+    font-weight: bold;
+}
+
+.kutu .button {
+    background-color: #ffffff;
+    border-radius: 100px;
+    width: 30px;
+    height: 30px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    margin-top: 20px;
+    margin-left: -70px;
+    font-size: 30px;
+    color: #111111;
+    text-align: center;
+}
